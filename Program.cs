@@ -1,16 +1,13 @@
-﻿using System.Collections.Generic;
-using System.Diagnostics.Metrics;
-using System.Linq;
-using System.Reflection.Emit;
-namespace ConsoleApp5
+﻿using ClassLibrary1;
+using Microsoft.EntityFrameworkCore.Design;
+namespace lastHomeWorkEF
 {
-
 
     internal class Program
     {
         static void Main(string[] args)
         {
-           ShopContext shopContext = new ShopContext();
+            ShopContext shopContext = new ShopContext();
 
             var WorkerInShop = shopContext.Workers.Select(worker => new
             {
@@ -26,11 +23,14 @@ namespace ConsoleApp5
 
 
 
-            var ShopProduct =  shopContext.Products.Select(p => p);
-            foreach (var product in ShopProduct) { 
+            var ShopProduct = shopContext.Products.Select(p => p);
+            foreach (var product in ShopProduct)
+            {
                 Console.WriteLine($"Product {product}");
             }
 
         }
     }
 }
+
+

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ncfVY/Hlog=",
+  "dgSpecHash": "WohoFkY4utA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ron\\Source\\Repos\\ConsoleApp5\\ConsoleApp5.csproj",
+  "projectFilePath": "C:\\Users\\Ron\\Source\\Repos\\lastHomeWorkEF\\lastHomeWorkEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ron\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ron\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -22,7 +22,6 @@
     "C:\\Users\\Ron\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.8\\microsoft.entityframeworkcore.design.8.0.8.nupkg.sha512",
     "C:\\Users\\Ron\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.8\\microsoft.entityframeworkcore.relational.8.0.8.nupkg.sha512",
     "C:\\Users\\Ron\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.8\\microsoft.entityframeworkcore.sqlserver.8.0.8.nupkg.sha512",
-    "C:\\Users\\Ron\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.8\\microsoft.entityframeworkcore.tools.8.0.8.nupkg.sha512",
     "C:\\Users\\Ron\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Ron\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\Ron\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
